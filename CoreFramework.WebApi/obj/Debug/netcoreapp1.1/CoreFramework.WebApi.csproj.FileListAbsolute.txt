@@ -1,0 +1,8 @@
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\bin\Debug\netcoreapp1.1\CoreFramework.WebApi.deps.json
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\bin\Debug\netcoreapp1.1\CoreFramework.WebApi.runtimeconfig.json
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\bin\Debug\netcoreapp1.1\CoreFramework.WebApi.runtimeconfig.dev.json
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\bin\Debug\netcoreapp1.1\CoreFramework.WebApi.dll
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\bin\Debug\netcoreapp1.1\CoreFramework.WebApi.pdb
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\obj\Debug\netcoreapp1.1\CoreFramework.WebApi.AssemblyInfo.cs
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\obj\Debug\netcoreapp1.1\CoreFramework.WebApi.dll
+D:\Google\Projects\DotNetCore\CoreFramework\CoreFramework.WebApi\obj\Debug\netcoreapp1.1\CoreFramework.WebApi.pdb
